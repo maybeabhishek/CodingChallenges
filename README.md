@@ -5,6 +5,7 @@ A set of solutions to various coding problems from different coding platforms
 ## Leet Code
 
 - [02. Add Two Numbers](LeetCode/02-Add%20Two%20Numbers/README.md)
+- [49. Group Anagrams](LeetCode/49-Group-Anagrams/README.md)
 - [53. Maximum SubArray](LeetCode/53-Maximum-SubArray/README.MD)
 - [122. Best Time to buy and sell stocks II](LeetCode/122-best-time-stocks-ii/README.md)
 - [136. Single Number](LeetCode/136-Single-Number/README.md)
