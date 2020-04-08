@@ -23,3 +23,4 @@ A set of solutions to various coding problems from different coding platforms
 - [Sock Merchant](HackerRanK/InterviewPrepChallenges/SockMerchant/README.md)
 - [Jumping on Clouds](HackerRanK/InterviewPrepChallenges/JumpingClouds/README.md)
 - [Repeated String](HackerRanK/InterviewPrepChallenges/RepeatedString/README.md)
+- [2D Array DS](HackerRanK/InterviewPrepChallenges/2d-array-ds/README.md)
