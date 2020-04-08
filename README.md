@@ -14,3 +14,9 @@ A set of solutions to various coding problems from different coding platforms
 - [283. Move Zeroes](LeetCode/283-Move-Zeroes/README.md)
 - [1394. Find Lucky Integer in Array](LeetCode/1394-Lucky-Integer/README.md)
 - [Counting Numbers](LeetCode/Counting-elements/REAADME.md)
+
+## HackerRank Questions
+
+### Interview Preparation Kit
+
+- [Counting Valleys](HackerRanK/InterviewPrepChallenges/README.md)
