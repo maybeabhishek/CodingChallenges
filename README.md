@@ -19,4 +19,5 @@ A set of solutions to various coding problems from different coding platforms
 
 ### Interview Preparation Kit
 
-- [Counting Valleys](HackerRanK/InterviewPrepChallenges/README.md)
+- [Counting Valleys](HackerRanK/InterviewPrepChallenges/CountingValleys/README.md)
+- [Sock Merchant](HackerRanK/InterviewPrepChallenges/SockMerchant/README.md)
