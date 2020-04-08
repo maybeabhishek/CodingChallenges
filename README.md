@@ -24,3 +24,4 @@ A set of solutions to various coding problems from different coding platforms
 - [Jumping on Clouds](HackerRanK/InterviewPrepChallenges/JumpingClouds/README.md)
 - [Repeated String](HackerRanK/InterviewPrepChallenges/RepeatedString/README.md)
 - [2D Array DS](HackerRanK/InterviewPrepChallenges/2d-array-ds/README.md)
+- [Array Left Rotation](HackerRanK/InterviewPrepChallenges/Array-Left-Rotation/README.md)
