@@ -12,6 +12,7 @@ A set of solutions to various coding problems from different coding platforms
 - [144. Binary Tree Preorder Traversal](LeetCode/144-Preorder-Traversal/README.md)
 - [202. Happy Number](LeetCode/202-Happy-Number/README.md)
 - [283. Move Zeroes](LeetCode/283-Move-Zeroes/README.md)
+- [876. Middle of Linked List](LeetCode/876-Middle-of-linked-list/README.md)
 - [1394. Find Lucky Integer in Array](LeetCode/1394-Lucky-Integer/README.md)
 - [Counting Numbers](LeetCode/Counting-elements/REAADME.md)
 
@@ -25,3 +26,4 @@ A set of solutions to various coding problems from different coding platforms
 - [Repeated String](HackerRanK/InterviewPrepChallenges/RepeatedString/README.md)
 - [2D Array DS](HackerRanK/InterviewPrepChallenges/2d-array-ds/README.md)
 - [Array Left Rotation](HackerRanK/InterviewPrepChallenges/Array-Left-Rotation/README.md)
+- [New Year Chaos](HackerRanK/InterviewPrepChallenges/New-year-chaos/README.md)
