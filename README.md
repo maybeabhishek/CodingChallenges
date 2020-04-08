@@ -22,3 +22,4 @@ A set of solutions to various coding problems from different coding platforms
 - [Counting Valleys](HackerRanK/InterviewPrepChallenges/CountingValleys/README.md)
 - [Sock Merchant](HackerRanK/InterviewPrepChallenges/SockMerchant/README.md)
 - [Jumping on Clouds](HackerRanK/InterviewPrepChallenges/JumpingClouds/README.md)
+- [Repeated String](HackerRanK/InterviewPrepChallenges/RepeatedString/README.md)
