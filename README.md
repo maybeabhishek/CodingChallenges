@@ -14,6 +14,7 @@ A set of solutions to various coding problems from different coding platforms
 - [202. Happy Number](LeetCode/202-Happy-Number/README.md)
 - [283. Move Zeroes](LeetCode/283-Move-Zeroes/README.md)
 - [341. Flatten Nested List Operator](LeetCode/341-Flatten-List/README.md)
+- [543. Diameter of Binary Tree](LeetCode/543-Diameter-of-binary-tree/README.md)
 - [844. Backspace String Compare](LeetCode/844-BackSpace-String-Compare/README.md)
 - [876. Middle of Linked List](LeetCode/876-Middle-of-linked-list/README.md)
 - [1394. Find Lucky Integer in Array](LeetCode/1394-Lucky-Integer/README.md)
