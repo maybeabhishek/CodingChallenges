@@ -31,3 +31,4 @@ A set of solutions to various coding problems from different coding platforms
 - [2D Array DS](HackerRanK/InterviewPrepChallenges/2d-array-ds/README.md)
 - [Array Left Rotation](HackerRanK/InterviewPrepChallenges/Array-Left-Rotation/README.md)
 - [New Year Chaos](HackerRanK/InterviewPrepChallenges/New-year-chaos/README.md)
+- [Array Manipulation](HackerRanK/InterviewPrepChallenges/Array-Manipulation/README.md)
