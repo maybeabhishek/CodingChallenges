@@ -17,6 +17,7 @@ A set of solutions to various coding problems from different coding platforms
 - [543. Diameter of Binary Tree](LeetCode/543-Diameter-of-binary-tree/README.md)
 - [844. Backspace String Compare](LeetCode/844-BackSpace-String-Compare/README.md)
 - [876. Middle of Linked List](LeetCode/876-Middle-of-linked-list/README.md)
+- [1046. Last Stone Weight](LeetCode/1046-last-stone-weight/README.md)
 - [1394. Find Lucky Integer in Array](LeetCode/1394-Lucky-Integer/README.md)
 - [Counting Numbers](LeetCode/Counting-elements/REAADME.md)
 
