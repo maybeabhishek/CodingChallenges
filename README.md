@@ -36,3 +36,4 @@ A set of solutions to various coding problems from different coding platforms
 - [New Year Chaos](HackerRanK/InterviewPrepChallenges/New-year-chaos/README.md)
 - [Array Manipulation](HackerRanK/InterviewPrepChallenges/Array-Manipulation/README.md)
 - [Hash Table: Ransom Note](HackerRanK/InterviewPrepChallenges/Hash-tables-ransome-note/README.md)
+- [Two Strings](HackerRanK/InterviewPrepChallenges/Two-Strings/README.md)
