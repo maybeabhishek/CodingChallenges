@@ -20,6 +20,7 @@ A set of solutions to various coding problems from different coding platforms
 - [876. Middle of Linked List](LeetCode/876-Middle-of-linked-list/README.md)
 - [1046. Last Stone Weight](LeetCode/1046-last-stone-weight/README.md)
 - [1394. Find Lucky Integer in Array](LeetCode/1394-Lucky-Integer/README.md)
+- [1395. Count Number of Teams](LeetCode/1395-Count-Number-Teams/README.md)
 - [Counting Numbers](LeetCode/Counting-elements/REAADME.md)
 - [String Shifts](LeetCode/String-shifts/README.md)
 
