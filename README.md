@@ -21,6 +21,7 @@ A set of solutions to various coding problems from different coding platforms
 - [1046. Last Stone Weight](LeetCode/1046-last-stone-weight/README.md)
 - [1394. Find Lucky Integer in Array](LeetCode/1394-Lucky-Integer/README.md)
 - [Counting Numbers](LeetCode/Counting-elements/REAADME.md)
+- [String Shifts](LeetCode/String-shifts/README.md)
 
 ## HackerRank Questions
 
@@ -34,3 +35,4 @@ A set of solutions to various coding problems from different coding platforms
 - [Array Left Rotation](HackerRanK/InterviewPrepChallenges/Array-Left-Rotation/README.md)
 - [New Year Chaos](HackerRanK/InterviewPrepChallenges/New-year-chaos/README.md)
 - [Array Manipulation](HackerRanK/InterviewPrepChallenges/Array-Manipulation/README.md)
+- [Hash Table: Ransom Note](HackerRanK/InterviewPrepChallenges/Hash-tables-ransome-note/README.md)
