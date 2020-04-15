@@ -45,3 +45,4 @@ A set of solutions to various coding problems from different coding platforms
 ## Problem Solving
 
 - [Largest Permutation](HackerRanK/Problem-Solving/Largest-Permutation/README.md)
+- [Anagram](HackerRanK/Problem-Solving/Anagram/README.md)
