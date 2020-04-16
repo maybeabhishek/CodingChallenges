@@ -12,6 +12,7 @@ A set of solutions to various coding problems from different coding platforms
 - [136. Single Number](LeetCode/136-Single-Number/README.md)
 - [144. Binary Tree Preorder Traversal](LeetCode/144-Preorder-Traversal/README.md)
 - [155. Min Stack](LeetCode/155-Min-Stack/README.md)
+- [189. Rotate Array](LeetCode/189-rotate-array/README.md)
 - [202. Happy Number](LeetCode/202-Happy-Number/README.md)
 - [204. Count Primes](LeetCode/204-Count-primes/README.md)
 - [238. Array product except self](LeetCode/238-Array-product/README.md)
