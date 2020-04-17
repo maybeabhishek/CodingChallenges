@@ -4,6 +4,7 @@ A set of solutions to various coding problems from different coding platforms
 
 ## Leet Code
 
+- [01. Two Sum](LeetCode/01-two-sum/README.md)
 - [02. Add Two Numbers](LeetCode/02-Add%20Two%20Numbers/README.md)
 - [26. Remove Duplicates from Sorted Aarray](LeetCode/26-Remove-duplicates-from-sorted-array/README.md)
 - [49. Group Anagrams](LeetCode/49-Group-Anagrams/README.md)
