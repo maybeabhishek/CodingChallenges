@@ -50,6 +50,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Sherlock and Anagrams](HackerRanK/InterviewPrepChallenges/Shrelock-Anagram/README.md)
 - [Mark and Toys](HackerRanK/InterviewPrepChallenges/Mark-toys/README.md)
 - [Counting Triplets](HackerRanK/InterviewPrepChallenges/Counting-Triplets/README.md)
+- [Sorting: Bubble Sort](HackerRanK/InterviewPrepChallenges/Sorting-bubble/README.md)
 
 ## Problem Solving
 
