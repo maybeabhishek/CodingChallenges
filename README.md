@@ -49,6 +49,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Two Strings](HackerRanK/InterviewPrepChallenges/Two-Strings/README.md)
 - [Sherlock and Anagrams](HackerRanK/InterviewPrepChallenges/Shrelock-Anagram/README.md)
 - [Mark and Toys](HackerRanK/InterviewPrepChallenges/Mark-toys/README.md)
+- [Counting Triplets](HackerRanK/InterviewPrepChallenges/Counting-Triplets/README.md)
 
 ## Problem Solving
 
