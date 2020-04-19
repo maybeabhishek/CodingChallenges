@@ -2,6 +2,10 @@
 
 A set of solutions to various coding problems from different coding platforms
 
+## Geeks for Geeks
+
+- [M and N](GeeksForGeeks/M-and-N/README.md)
+
 ## Leet Code
 
 - [01. Two Sum](LeetCode/01-two-sum/README.md)
