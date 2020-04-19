@@ -5,6 +5,7 @@ A set of solutions to various coding problems from different coding platforms
 ## Geeks for Geeks
 
 - [M and N](GeeksForGeeks/M-and-N/README.md)
+- [Triangles and Square](GeeksForGeeks/Triangle-and-square/README.md)
 
 ## Leet Code
 
