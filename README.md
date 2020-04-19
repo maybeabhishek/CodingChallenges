@@ -51,6 +51,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Mark and Toys](HackerRanK/InterviewPrepChallenges/Mark-toys/README.md)
 - [Counting Triplets](HackerRanK/InterviewPrepChallenges/Counting-Triplets/README.md)
 - [Sorting: Bubble Sort](HackerRanK/InterviewPrepChallenges/Sorting-bubble/README.md)
+- [Fradulent Activity Notification](HackerRanK/InterviewPrepChallenges/Fradulent-activity-notification/README.md)
 
 ## Problem Solving
 
