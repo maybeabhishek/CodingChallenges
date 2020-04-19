@@ -48,6 +48,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Hash Table: Ransom Note](HackerRanK/InterviewPrepChallenges/Hash-tables-ransome-note/README.md)
 - [Two Strings](HackerRanK/InterviewPrepChallenges/Two-Strings/README.md)
 - [Sherlock and Anagrams](HackerRanK/InterviewPrepChallenges/Shrelock-Anagram/README.md)
+- [Mark and Toys](HackerRanK/InterviewPrepChallenges/Mark-toys/README.md)
 
 ## Problem Solving
 
