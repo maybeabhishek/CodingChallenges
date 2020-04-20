@@ -7,6 +7,7 @@ A set of solutions to various coding problems from different coding platforms
 - [M and N](GeeksForGeeks/M-and-N/README.md)
 - [Triangles and Square](GeeksForGeeks/Triangle-and-square/README.md)
 - [Rotate Array](GeeksForGeeks/Rotate-Array/README.md)
+- [Middle of Linked List](GeeksForGeeks/Middle-linked-list/README.md) 
 
 ## Leet Code
 
