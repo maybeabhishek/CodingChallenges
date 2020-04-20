@@ -14,6 +14,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Reorder Linked List](GeeksForGeeks/Reorder-List/README.md)
 - [Subarray With Given Sum](GeeksForGeeks/Subarray-with-given-sum/README.md)
 - [Sort Arrays of 0, 1, 2](GeeksForGeeks/Sort-array-012/README.md)
+- [Equilibrium Point](GeeksForGeeks/Equilibrium-point/README.md)
 
 ## Leet Code
 
