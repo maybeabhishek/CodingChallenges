@@ -10,6 +10,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Middle of Linked List](GeeksForGeeks/Middle-linked-list/README.md)
 - [Loop in Linked List](GeeksForGeeks/Middle-linked-list/README.md)
 - [Remove Loop from Linked List](GeeksForGeeks/Remove-Loop-from-ll/README.md)
+- [Rotate Linked List](GeeksForGeeks/Rotate-LikedList/README.md)
 
 ## Leet Code
 
@@ -62,7 +63,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Sorting: Bubble Sort](HackerRanK/InterviewPrepChallenges/Sorting-bubble/README.md)
 - [Fradulent Activity Notification](HackerRanK/InterviewPrepChallenges/Fradulent-activity-notification/README.md)
 
-## Problem Solving
+### Problem Solving
 
 - [Largest Permutation](HackerRanK/Problem-Solving/Largest-Permutation/README.md)
 - [Anagram](HackerRanK/Problem-Solving/Anagram/README.md)
