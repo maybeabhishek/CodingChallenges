@@ -11,6 +11,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Loop in Linked List](GeeksForGeeks/Middle-linked-list/README.md)
 - [Remove Loop from Linked List](GeeksForGeeks/Remove-Loop-from-ll/README.md)
 - [Rotate Linked List](GeeksForGeeks/Rotate-LikedList/README.md)
+- [Reorder Linked List](GeeksForGeeks/Reorder-List/README.md)
 
 ## Leet Code
 
