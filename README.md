@@ -41,6 +41,7 @@ A set of solutions to various coding problems from different coding platforms
 - [844. Backspace String Compare](LeetCode/844-BackSpace-String-Compare/README.md)
 - [876. Middle of Linked List](LeetCode/876-Middle-of-linked-list/README.md)
 - [938. Range sum of BST](LeetCode/938-Range-Sum-BST/README.md)
+- [1008.  Binary Tree from Preorder Traversal](LeetCode/1008-binary-tree-from-preorder/README.md)
 - [1046. Last Stone Weight](LeetCode/1046-last-stone-weight/README.md)
 - [1394. Find Lucky Integer in Array](LeetCode/1394-Lucky-Integer/README.md)
 - [1395. Count Number of Teams](LeetCode/1395-Count-Number-Teams/README.md)
