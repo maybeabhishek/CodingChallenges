@@ -17,6 +17,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Equilibrium Point](GeeksForGeeks/Equilibrium-point/README.md)
 - [Maximum Sum of Increasing Subsequence](GeeksForGeeks/MaxSum-Increasing-subsequence/README.md)
 - [Count Number of Hops](GeeksForGeeks/Count-hops/README.md)
+- [Count ways to N'th Stair(Order does not matter](GeeksForGeeks/count-ways-order-nomatter/README.md)
 
 ## Leet Code
 
