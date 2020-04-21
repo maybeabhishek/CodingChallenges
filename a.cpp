@@ -1,21 +1,28 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
 	//code
 	int T;
 	cin >> T;
-	
 	while(T--){
 	    int n;
 	    cin >> n;
-	    int arr[n],s = 0;
-	    for(int i = 0; i < n-1; i++){
-	        cin >> arr[i];
-	        s+=arr[i];
+	    int temp;
+	//    vector<int> arr(n);
+	   priority_queue<int> p;
+	    for(int i = 0; i<n; i++){
+	        cin>>temp;            
+			p.push(temp);
 	    }
-	   int sum = n*(n+1)/2;
-	   cout << sum - s<<"\n";
+	   int k;
+	   cin >> k;
+		k = n-k;
+		while (k-->0)
+		{
+			p.pop();
+		}
+		cout<< p.top() << "\n";
 	}
 	return 0;
 }
