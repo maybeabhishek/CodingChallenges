@@ -21,6 +21,7 @@ A set of solutions to various coding problems from different coding platforms
 - [01. Two Sum](LeetCode/01-two-sum/README.md)
 - [02. Add Two Numbers](LeetCode/02-Add%20Two%20Numbers/README.md)
 - [03. Longest Substring without repeating characters](LeetCode/03-Longest-substr-without-rep-char/README.md)
+- [20. Valid Paranthesis](LeetCode/20-Valid-paranthesis/README.md)
 - [26. Remove Duplicates from Sorted Aarray](LeetCode/26-Remove-duplicates-from-sorted-array/README.md)
 - [49. Group Anagrams](LeetCode/49-Group-Anagrams/README.md)
 - [53. Maximum SubArray](LeetCode/53-Maximum-SubArray/README.MD)
