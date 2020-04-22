@@ -20,6 +20,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Count ways to N'th Stair(Order does not matter](GeeksForGeeks/count-ways-order-nomatter/README.md)
 - [Missing Number in Array](GeeksForGeeks/missing-num-in-arr/README.md)
 - [Delete without Head Pointer](GeeksForGeeks/delete-without-head/README.md)
+- [Check if Linked list is a palindrome](GeeksForGeeks/check-ll-palindrome/README.md)
 
 ## Leet Code
 
