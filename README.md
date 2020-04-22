@@ -19,6 +19,7 @@ A set of solutions to various coding problems from different coding platforms
 - [Count Number of Hops](GeeksForGeeks/Count-hops/README.md)
 - [Count ways to N'th Stair(Order does not matter](GeeksForGeeks/count-ways-order-nomatter/README.md)
 - [Missing Number in Array](GeeksForGeeks/missing-num-in-arr/README.md)
+- [Delete without Head Pointer](GeeksForGeeks/delete-without-head/README.md)
 
 ## Leet Code
 
