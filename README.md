@@ -40,6 +40,7 @@ A set of solutions to various coding problems from different coding platforms
 - [155. Min Stack](LeetCode/155-Min-Stack/README.md)
 - [189. Rotate Array](LeetCode/189-rotate-array/README.md)
 - [200. Number of Islands](LeetCode/200-number-of-islands/README.md)
+- [201. Bitwise AND of given Range](LeetCode/201-bitwise-and/README.md)
 - [202. Happy Number](LeetCode/202-Happy-Number/README.md)
 - [204. Count Primes](LeetCode/204-Count-primes/README.md)
 - [217. Count Duplicates](LeetCode/217-contains-duplicates/README.md)
