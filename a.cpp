@@ -1,70 +1,89 @@
-#include <iostream>
-#include <set>
-#include <algorithm>
-#include <cmath>
+// // #include <cmath>
+// // #include <cstdio>
+// // #include <vector>
+// // #include <bits/stdc++.h>
+// // #include <algorithm>
+// // using namespace std;
 
-using namespace std;
+// // void countSmallerRight(int A[], int len)
+// // {
+// //     multiset<int> s;
+// //     int countSmaller[len];
+// //     for (int i = len - 1; i >= 0; i--) {
+// //         s.insert(A[i]);
+// //         auto it = s.lower_bound(A[i]);
+// //         countSmaller[i] = distance(s.begin(), it);
+// //     }
 
-int main()
-{
-  int t;
-  long a, b;
-  cin >> t;
-  while (t--)
-  {
-    cin >> a >> b;
-    set<long> y;
-    set<long> prod;
-    long res = 0;
-    long p = 1;
-    if (a == 1)
-      p = a + 1;              // 2
-    long q = (a * b) / p - 1; // 5
+// //     for (int i = 0; i < len; i++)
+// //         cout << countSmaller[i] << " ";
+// // }
 
-    y.insert(b);
+// // int main() {
+// //     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+// //     int T;
+// //     cin >> T;
+// //     while(T--){
+// //         int n;
+// //         cin >> n;
+// //         int arr[n];
 
-    while (q > 0)
-    {
-      if (p * q > a * b)
-        break;
-      cout << p << " " << q << endl;
-      if (find(prod.begin(), prod.end(), p*q) != prod.end())
-      {
-        // cout << "eliminated   " << p <<"  "<< q<<endl;
-        res--;    
-      }
-      else{
-        prod.insert(p * q);
-      }
-      res++;
-      if (p + 1 < a)
-        p++;
-      if ((a * b) % p == 0)
-        q = a * b / p - 1;
-      else
-        q = floor(a * b) / p;
-      while (y.count(q) != 0)
-        q--;
-      y.insert(q);
-      if (q <= 0)
-        break;
-      
-    }
-    cout << res << endl;
-  }
-  return 0;
-}
+// //         for(int i = 0; i<n; i++){
+// //             cin >> arr[i];
+// //         }
+// //         reverse(arr, arr +n);
+// //         countSmallerRight(arr, n);
+// //         cout << "\n";
+// //     }
+// //     return 0;
+// // }
 
-// 10 5 50
-// 1 49
-// 2 24
-// 3 16
-// 4 24
-// 5 9
-// 6 8
-// 7 7
-// 8 6
-// 9 4
-// 9 3
-// 9 2
-// 9 1
+// #include <cstdio>
+// #include <bits/stdc++.h>
+// using namespace std;
+
+
+
+// int main()
+// {
+//   int t;
+//   cin >> t;
+//   while (t--)
+//   {
+//     const int MX_RANGE = 100000, MX_SIZE = 100000;
+//     int tree[MX_RANGE] = {0}, a[MX_SIZE];
+//     int n, mn = MX_RANGE, shift = 0;
+//     scanf("%d", &n);
+
+//     for (int i = 0; i < n; i++)
+//     {
+//       scanf("%d", &a[i]);
+//       if (a[i] < mn)
+//         mn = a[i];
+//     }
+
+//     shift = 1 - mn; // we need to remap all values to start from 1
+//     long max = 0;
+//     for (int i = 0; i < n; i++)
+//     {
+//       // Read answer
+//       int sum = 0, idx = a[i] + shift - 1;
+//       while (idx > 0)
+//       {
+//         sum += tree[idx];
+//         idx -= (idx & -idx);
+//       }
+
+//       // printf("%d ", sum);
+//       max +=sum;
+//       // Update tree
+//       idx = a[i] + shift;
+//       while (idx <= MX_RANGE)
+//       {
+//         tree[idx] += a[i];
+//         idx += (idx & -idx);
+//       }
+//     }
+//     cout << "\n" << max<<endl;
+//   }
+// }
