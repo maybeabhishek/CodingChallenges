@@ -31,6 +31,7 @@ A set of solutions to various coding problems from different coding platforms
 - [26. Remove Duplicates from Sorted Aarray](LeetCode/26-Remove-duplicates-from-sorted-array/README.md)
 - [49. Group Anagrams](LeetCode/49-Group-Anagrams/README.md)
 - [53. Maximum SubArray](LeetCode/53-Maximum-SubArray/README.MD)
+- [55. Jump Game](LeetCode/55-Jump-Game/README.md)
 - [64. Minimum Path Sum](LeetCode/64-Minimum-path-sum/README.md)
 - [121. Best Time to buy and sell stocks](LeetCode/121-best-time-stock/README.md)
 - [122. Best Time to buy and sell stocks II](LeetCode/122-best-time-stocks-ii/README.md)
