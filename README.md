@@ -35,6 +35,7 @@ A set of solutions to various coding problems from different coding platforms
 - [64. Minimum Path Sum](LeetCode/64-Minimum-path-sum/README.md)
 - [121. Best Time to buy and sell stocks](LeetCode/121-best-time-stock/README.md)
 - [122. Best Time to buy and sell stocks II](LeetCode/122-best-time-stocks-ii/README.md)
+- [124. Maximum Path Sum in Binary Tree](LeetCode/124-Maximum-Path-Sum/README.md)
 - [136. Single Number](LeetCode/136-Single-Number/README.md)
 - [144. Binary Tree Preorder Traversal](LeetCode/144-Preorder-Traversal/README.md)
 - [152. Maximum Product Subarray](LeetCode/152-maxproduct-subarray/README.md)
