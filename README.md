@@ -55,6 +55,7 @@ A set of solutions to various coding problems from different coding platforms
 - [543. Diameter of Binary Tree](LeetCode/543-Diameter-of-binary-tree/README.md)
 - [560. Subarray with sum equal to K](LeetCode/560-subarray-sm-equals-k/README.md)
 - [678. Valid Paranthesis String](LeetCode/678-Balanced-paranthesis/README.md)
+- [771, Jewels and Stones](LeetCode/771-Jewels-and-stones/README.md)
 - [844. Backspace String Compare](LeetCode/844-BackSpace-String-Compare/README.md)
 - [876. Middle of Linked List](LeetCode/876-Middle-of-linked-list/README.md)
 - [938. Range sum of BST](LeetCode/938-Range-Sum-BST/README.md)
