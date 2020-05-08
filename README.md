@@ -45,6 +45,7 @@ A set of solutions to various coding problems from different coding platforms
 - [202. Happy Number](LeetCode/202-Happy-Number/README.md)
 - [204. Count Primes](LeetCode/204-Count-primes/README.md)
 - [217. Count Duplicates](LeetCode/217-contains-duplicates/README.md)
+- [221. Maximal Square](LeetCode/221-Maximal-Square/README.md)
 - [238. Array product except self](LeetCode/238-Array-product/README.md)
 - [283. Move Zeroes](LeetCode/283-Move-Zeroes/README.md)
 - [341. Flatten Nested List Operator](LeetCode/341-Flatten-List/README.md)
