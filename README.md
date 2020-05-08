@@ -51,6 +51,7 @@ A set of solutions to various coding problems from different coding platforms
 - [278. First Bad Version](LeetCode/278-first-bad-version/README.md)
 - [283. Move Zeroes](LeetCode/283-Move-Zeroes/README.md)
 - [341. Flatten Nested List Operator](LeetCode/341-Flatten-List/README.md)
+- [383. Ransome Note](LeetCode/383-Ransome-Note/README.md)
 - [525. Contigious Array](LeetCode/525-Contiguous-Array/README.md)
 - [543. Diameter of Binary Tree](LeetCode/543-Diameter-of-binary-tree/README.md)
 - [560. Subarray with sum equal to K](LeetCode/560-subarray-sm-equals-k/README.md)
