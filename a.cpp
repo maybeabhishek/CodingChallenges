@@ -1,66 +1,50 @@
-  #include <cmath>
-  #include <cstdio>
-  #include <vector>
-  #include <iostream>
-  #include <algorithm>
-  using namespace std;
+// A C++ program for Dijkstra's single source shortest path algorithm.
+// The program is for adjacency matrix representation of the graph
 
-  char returnChar(char c, char next){
-      if(c == 'a'){
-          if(next == 'z'){
-              return 'b';
-          }
-          else{
-              return 'z';
-          }
-      }
-      else if(c == 'z'){
-          if(next == 'a'){
-              return 'b';
-          }
-          else
-              return 'a';
-      }
+#include <limits.h>
+#include <stdio.h>
+#include<bits/stdc++.h>
 
-      if(next == 'a'){
-          return 'z';
-      }
-      else 
-          return 'a';
-          
-  }
+using namespace std;
 
-  int main() {
-      /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
-      string s;
-      cin >> s;
-      int n = s.length();
-      long k;
-      cin >> k;
-      char start = s[0];
-      long count = 0;
-      if(n==1){
-        cout <<  floor(k/2);
-        return 0;
-      }
-      for(int i = 1; i < n -1 ; i++){
-          if(s[i]==start){
-              // cout <<"Curr :" <<s[i] <<"  Next:"<< s[i+1]<<endl;
-              s[i] = returnChar(s[i], s[i+1]);
-              // cout << "Changed to " << s << endl;
-              count++;
-          }
-          start = s[i];
-      }
-      if(s[n-1] == s[n-2]){
-        count++;
-        s[n-1] = returnChar(s[n-1], s[n-2]);
-      }
+int getFare(vector<vector<int>> &graph){
+    int n = graph.size();
+    vector<vector<int>> dp(n , vector<int>(n));
+    for(int i = 0; i < n; i++){
+        for(int j = 0; j < n; j++){
+            if(graph[i][j]){
+                dp[i][j] = 1;
+                if(){
+                    
+                }
 
-      // cout << count << endl;
-      if(s[0] == s[n-1] && k!=1)
-          count++;
-      // cout << s << endl;
-      cout << count*k;
-      return 0;
-  }
+            }
+        }
+    }
+
+}
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
+
+    int s, r;
+    cin >> s >> r;
+    vector<vector<int>> graph(s, vector<int>(s));
+
+    int start, stop, company;
+    for(int i = 0; i < r; i++){
+        cin >> start >> stop >> company;
+        graph[start-1][stop-1] = company;
+        // graph[stop -1][start - 1] = company;
+    }
+    
+    for(int i = 0; i < s; i++){
+        for(int j = 0; j < s; j++){
+            cout << graph[i][j] << " ";
+        }
+        cout << endl;   
+    }
+
+    return 0;
+}
