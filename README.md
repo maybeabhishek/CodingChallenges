@@ -40,6 +40,7 @@ A set of solutions to various coding problems from different coding platforms
 - [144. Binary Tree Preorder Traversal](LeetCode/144-Preorder-Traversal/README.md)
 - [152. Maximum Product Subarray](LeetCode/152-maxproduct-subarray/README.md)
 - [155. Min Stack](LeetCode/155-Min-Stack/README.md)
+- [169. Majority Element](LeetCode/169-majority-eement/README.md)
 - [189. Rotate Array](LeetCode/189-rotate-array/README.md)
 - [200. Number of Islands](LeetCode/200-number-of-islands/README.md)
 - [201. Bitwise AND of given Range](LeetCode/201-bitwise-and/README.md)
