@@ -64,6 +64,7 @@ A set of solutions to various coding problems from different coding platforms
 - [876. Middle of Linked List](LeetCode/876-Middle-of-linked-list/README.md)
 - [938. Range sum of BST](LeetCode/938-Range-Sum-BST/README.md)
 - [993. Cousins in Binary Tree](LeetCode/993-cousins-in-tree/README.md)
+- [997. Finding Town Judge](LeetCode/997-Finding-town-judge/README.md)
 - [1008.  Binary Tree from Preorder Traversal](LeetCode/1008-binary-tree-from-preorder/README.md)
 - [1046. Last Stone Weight](LeetCode/1046-last-stone-weight/README.md)
 - [1143. ongest Common Subsequence](LeetCode/1143-Longest-Common-Subsequence/README.md)
