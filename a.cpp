@@ -1,50 +1,48 @@
-// A C++ program for Dijkstra's single source shortest path algorithm.
-// The program is for adjacency matrix representation of the graph
-
-#include <limits.h>
-#include <stdio.h>
-#include<bits/stdc++.h>
+#include <climits>
+#include <cmath>
+#include <iostream>
+#include <map>
+#include <stack>
+#include <vector>
 
 using namespace std;
 
-int getFare(vector<vector<int>> &graph){
-    int n = graph.size();
-    vector<vector<int>> dp(n , vector<int>(n));
-    for(int i = 0; i < n; i++){
-        for(int j = 0; j < n; j++){
-            if(graph[i][j]){
-                dp[i][j] = 1;
-                if(){
-                    
-                }
+string solve(long n, map<long, int>& dp) {
+  if (dp[n] == 1) return "Yes";
 
-            }
-        }
+  // Otherwise result will go negetive
+  long temp = n;
+  if (n > 9) {
+    // get digit of n which is not zero
+    while (temp >= 1) {
+      long digit = temp % 10;
+      temp /= 10;
+      if (digit == 0) continue;
+      if(solve(n - (digit * digit), dp)!="No")
+        return "Yes";
     }
-
+  }
+  return "No";
 }
 
-
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
+  long t, n;
+  cin >> t;
+  map<long, int> dp;
 
-    int s, r;
-    cin >> s >> r;
-    vector<vector<int>> graph(s, vector<int>(s));
+  for (long i = 1;; i++) {
+    long num = pow(i, i);
+    if (num > 10000000) break;
 
-    int start, stop, company;
-    for(int i = 0; i < r; i++){
-        cin >> start >> stop >> company;
-        graph[start-1][stop-1] = company;
-        // graph[stop -1][start - 1] = company;
-    }
-    
-    for(int i = 0; i < s; i++){
-        for(int j = 0; j < s; j++){
-            cout << graph[i][j] << " ";
-        }
-        cout << endl;   
-    }
+    // number is satanic
+    dp[num] = 1;
+  }
 
-    return 0;
+  while (t--) {
+    cin >> n;
+    string res = solve(n, dp);
+    cout << res << endl;
+  }
+
+  return 0;
 }
