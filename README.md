@@ -55,6 +55,7 @@ A set of solutions to various coding problems from different coding platforms
 - [217. Count Duplicates](LeetCode/217-contains-duplicates/README.md)
 - [221. Maximal Square](LeetCode/221-Maximal-Square/README.md)
 - [238. Array product except self](LeetCode/238-Array-product/README.md)
+- [242. Valid Anagrams](LeetCode/242-valid-anagrams/README.md)
 - [278. First Bad Version](LeetCode/278-first-bad-version/README.md)
 - [283. Move Zeroes](LeetCode/283-Move-Zeroes/README.md)
 - [341. Flatten Nested List Operator](LeetCode/341-Flatten-List/README.md)
