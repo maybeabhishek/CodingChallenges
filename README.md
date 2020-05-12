@@ -32,6 +32,7 @@ A set of solutions to various coding problems from different coding platforms
 - [20. Valid Paranthesis](LeetCode/20-Valid-paranthesis/README.md)
 - [26. Remove Duplicates from Sorted Aarray](LeetCode/26-Remove-duplicates-from-sorted-array/README.md)
 - [36. Valid Sudoku](LeetCode/36-Valid-sudoku/README.md)
+- [48. Rotate Image](LeetCode/48-rotate-image/README.md)
 - [49. Group Anagrams](LeetCode/49-Group-Anagrams/README.md)
 - [53. Maximum SubArray](LeetCode/53-Maximum-SubArray/README.MD)
 - [55. Jump Game](LeetCode/55-Jump-Game/README.md)
