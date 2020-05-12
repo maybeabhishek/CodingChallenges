@@ -57,6 +57,7 @@ A set of solutions to various coding problems from different coding platforms
 - [383. Ransome Note](LeetCode/383-Ransome-Note/README.md)
 - [387. First Unique Character in a String](LeetCode/387-first-unique-character/README.md)
 - [525. Contigious Array](LeetCode/525-Contiguous-Array/README.md)
+- [540. Single element in Sorted Array](LeetCode/540-Single-element-in-sorted-array/README.md)
 - [543. Diameter of Binary Tree](LeetCode/543-Diameter-of-binary-tree/README.md)
 - [560. Subarray with sum equal to K](LeetCode/560-subarray-sm-equals-k/README.md)
 - [678. Valid Paranthesis String](LeetCode/678-Balanced-paranthesis/README.md)
