@@ -54,6 +54,7 @@ A set of solutions to various coding problems from different coding platforms
 - [278. First Bad Version](LeetCode/278-first-bad-version/README.md)
 - [283. Move Zeroes](LeetCode/283-Move-Zeroes/README.md)
 - [341. Flatten Nested List Operator](LeetCode/341-Flatten-List/README.md)
+- [350. Intersection of Arrays II](LeetCode/350-intersection-of-array/README.md)
 - [367. Valid Perfect Square](LeetCode/367-Valid-perf-square/README.md)
 - [383. Ransome Note](LeetCode/383-Ransome-Note/README.md)
 - [387. First Unique Character in a String](LeetCode/387-first-unique-character/README.md)
