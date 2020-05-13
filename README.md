@@ -29,6 +29,7 @@ A set of solutions to various coding problems from different coding platforms
 - [03. Longest Substring without repeating characters](LeetCode/03-Longest-substr-without-rep-char/README.md)
 - [07. Reverse an Integer](LeetCode/7-reverse-integer/rev.cpp)
 - [11. Container with most water](LeetCode/11-Container-with-max-area/README.md)
+- [14. Longest Common Prefix](LeetCode/14-longest-common-prefix/README.md)
 - [15. 3 sum](LeetCode/15-3-sum/README.md)
 - [20. Valid Paranthesis](LeetCode/20-Valid-paranthesis/README.md)
 - [26. Remove Duplicates from Sorted Aarray](LeetCode/26-Remove-duplicates-from-sorted-array/README.md)
