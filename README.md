@@ -56,6 +56,7 @@ A set of solutions to various coding problems from different coding platforms
 - [204. Count Primes](LeetCode/204-Count-primes/README.md)
 - [217. Count Duplicates](LeetCode/217-contains-duplicates/README.md)
 - [221. Maximal Square](LeetCode/221-Maximal-Square/README.md)
+- [237. Delete Node in Linked list](LeetCode/237-delete-in-linked-list/README.md)
 - [238. Array product except self](LeetCode/238-Array-product/README.md)
 - [242. Valid Anagrams](LeetCode/242-valid-anagrams/README.md)
 - [278. First Bad Version](LeetCode/278-first-bad-version/README.md)
