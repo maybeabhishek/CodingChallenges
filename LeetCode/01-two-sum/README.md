@@ -1,6 +1,7 @@
 # 01 Two Sum
 
 <https://leetcode.com/problems/two-sum/> ![Problem Level](https://img.shields.io/badge/Problem--Level-Easy-green)
+
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
