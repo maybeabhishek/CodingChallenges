@@ -1,4 +1,5 @@
 # 1046. Last Stone weight
+![Problem Level](https://img.shields.io/badge/Problem--Level-Easy-green)
 
 We have a collection of stones, each stone has a positive integer weight.
 
